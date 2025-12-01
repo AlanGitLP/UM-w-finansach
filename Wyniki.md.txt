@@ -1,0 +1,46 @@
+Liczba filmów Sci-Fi: 4907
+Ocena  Liczba
+0.5  95
+1.0  60
+1.5  73
+2.0  170 
+2.5  307 
+3.0  559
+3.5  734
+4.0  803
+4.5  357
+5.0  369    
+
+Średnia ocen filmów akcji: 3.4916
+Top 3 najczęściej oceniane filmy akcji:
+FilmID	Tytuł	Liczba ocen
+2571      The Matrix (1999)	                         7052
+260	  Star Wars: Episode IV – A New Hope (1977)      6417
+2959      Fight Club (1999)                              5786
+
+
+Rekomendacje po obejrzeniu: Penguins of Madagascar
+
+Madagascar: Escape 2 Africa (2008)
+Ice Age: Dawn of the Dinosaurs (2009)
+Rio (2011)
+Cars 2 (2011)
+Madagascar 3: Europe’s Most Wanted (2012)
+Ice Age 4: Continental Drift (2012)
+Hotel Transylvania (2012)
+The Secret Life of Pets (2016)
+Minions (2015)
+Ice Age: Collision Course (2016)
+
+Rekomendacje po obejrzeniu: The Hobbit: The Desolation of Smaug
+
+Harry Potter and the Deathly Hallows: Part 1
+Harry Potter and the Deathly Hallows: Part 2
+The Avengers (2012)
+The Hobbit: An Unexpected Journey
+Iron Man 3
+Star Trek Into Darkness
+X-Men: Days of Future Past
+Guardians of the Galaxy
+The Hobbit: The Battle of the Five Armies
+Avengers: Age of Ultron
